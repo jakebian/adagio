@@ -1,0 +1,4 @@
+- src: lurie-pridham-thm
+  target: deformation-context-thm
+  type: special-case
+  via: calg-koszul-functor

@@ -1,15 +1,14 @@
-- key: htt
+htt:
   link: http://www.math.harvard.edu/~lurie/papers/highertopoi.pdf
   author: Jacob Lurie
   title: Higher Topos Theory
 
-- key: sag
+sag:
   link: http://www.math.harvard.edu/~lurie/papers/SAG-rootfile.pdf
   author: Jacob Lurie
   title: Spectral Algebraic Geometry, Feb 2018 draft
 
-- key: calaque-fmp
+calaque-fmp:
   author: Damien Calaque, Julien Grivaux
   link: https://arxiv.org/abs/1802.09556
   title: Formal moduli problems and formal derived stacks
-
