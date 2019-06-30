@@ -11,10 +11,8 @@ body: |
 
 references:
 
-  - title: Lurie, DAG-X
+  - key: sag
     pointer: Thm 2.0.2
-    link: http://www.math.harvard.edu/~lurie/papers/DAG-X.pdf
 
-  - title: Calaque-Grivaux, Survey on formal moduli
+  - key: calaque-fmp
     pointer: Thm 1.7
-    link: https://arxiv.org/abs/1802.09556

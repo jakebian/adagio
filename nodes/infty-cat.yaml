@@ -5,4 +5,6 @@ body: |
 
 references:
 
-  - title: Lurie, HTT
+  - key: htt
+    pointer: 2.2.2
+  
