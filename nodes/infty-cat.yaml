@@ -1,0 +1,8 @@
+title: $\infinity$-category
+body: |
+  We'll use quasi-categories as our models for $(\infinity, 1)$-categories throughout.
+  A quasi-category is a simplicial set $C$ such that the map $C \to \Delta^0$ is an [inner fibration]<inner-fib>.
+
+references:
+
+  - title: Lurie, HTT

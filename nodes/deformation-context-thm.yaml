@@ -5,8 +5,7 @@ body: |
   a [deformation theory for A]<formal-def-th> $D: C^{op} \to K$ induces an
   [equivalence of $\infty$-categories]<equiv-infty-cat>
   \[ K \to Moduli_A \]
-  where $Moduli_A$ denotes the [$\infty$-category of formal moduli problems in A]<<fmp-in-def-ctxt>
-
+  where $Moduli_A$ denotes the [$\infty$-category of formal moduli problems in A]<fmp-in-def-ctxt>
 
 references:
 
