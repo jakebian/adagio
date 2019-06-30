@@ -1,0 +1,20 @@
+title: Lurie-Pridham Theorem
+
+body: |
+  There is an equivalence of [$\infty$-categories]<infty-cat> 
+  \[Lie_k^{dg} \xrightarrow{\sim} Moduli_k\\]
+
+  where:
+    - $k$ is a field of characteristic 0,
+    - $Lie_k^{dg}$ is the [$\infty$-category of dg-Lie algebras over $k$]<cat-lie-dg>
+    - $Moduli_k$ is the [$\infty$-category of formal moduli problems over $k$]<fmp>
+
+references:
+
+  - title: Lurie, DAG-X
+    pointer: Thm 2.0.2
+    link: http://www.math.harvard.edu/~lurie/papers/DAG-X.pdf
+
+  - title: Calaque-Grivaux, Survey on formal moduli
+    pointer: Thm 1.7
+    link: https://arxiv.org/abs/1802.09556

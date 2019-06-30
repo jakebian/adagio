@@ -1,0 +1,19 @@
+title: Formal moduli theorem for general deformation contexts
+
+body: |
+  Let $A := (C, E)$ be a deformation context,
+  a [deformation theory for A]<formal-def-th> $D: C^{op} \to K$ induces an
+  [equivalence of $\infty$-categories]<equiv-infty-cat>
+  \[ K \to Moduli_A \]
+  where $Moduli_A$ denotes the [$\infty$-category of formal moduli problems in A]<<fmp-in-def-ctxt>
+
+
+references:
+
+  - title: Lurie, DAG-X
+    pointer: Thm 1.3.12
+    link: http://www.math.harvard.edu/~lurie/papers/DAG-X.pdf
+
+  - title: Calaque-Grivaux, Survey on formal moduli
+    pointer: Thm 2.33
+    link: https://arxiv.org/abs/1802.09556
